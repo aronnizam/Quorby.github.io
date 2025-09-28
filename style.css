@@ -1,0 +1,74 @@
+
+body {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(circle at top, #1a0033, #000);
+  color: #fff;
+  text-align: center;
+}
+
+header {
+  background: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  position: sticky;
+  top: 0;
+}
+
+header h1 {
+  color: #ffcc00;
+  margin: 0;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.hero {
+  padding: 60px 20px;
+  background: linear-gradient(135deg, #4b0082, #000);
+}
+
+.hero h2 {
+  font-size: 2.5em;
+  color: #ffccff;
+}
+
+.hero button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  background: #ffcc00;
+  color: #000;
+  font-size: 1.2em;
+  cursor: pointer;
+}
+
+section {
+  padding: 40px 20px;
+}
+
+button {
+  background: #9933ff;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  margin-top: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ffcc00;
+  color: #000;
+}
+
+footer {
+  background: #111;
+  padding: 15px;
+  margin-top: 40px;
+}
