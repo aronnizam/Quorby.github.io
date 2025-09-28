@@ -1,2 +1,2 @@
-# Aronnizam.github.io
+# quorby.github.io
 Quorby Oracle ai
